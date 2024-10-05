@@ -2,6 +2,7 @@ import React from 'react';
 import image from './image.png';
 import Skills from './Skills.js';
 import Projects from './Projects.js';
+import Contact from './Contact.js';
 function Home() {
   return (
     <div className="bg-[#1A0B2E] min-h-screen text-white">
@@ -40,6 +41,7 @@ function Home() {
 
       <Skills />
       <Projects />
+      <Contact />
       
 
 

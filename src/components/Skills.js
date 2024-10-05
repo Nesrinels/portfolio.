@@ -12,7 +12,7 @@ import githubicon from './Skills/icons8-github-30.png';
 
 function Skills() {
   return (
-    <div className="relative bg-[#1A0B2E] text-white py-20">
+    <div id="skills" className="relative bg-[#1A0B2E] text-white py-20">
       {/* Purple glow background */}
       <div className="absolute inset-0 z-0">
         <div className="w-full h-full bg-purple-900/20 rounded-full blur-3xl"></div>
