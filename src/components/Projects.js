@@ -57,7 +57,7 @@ export default function Projects() {
             
             <div className="bg-black/30 backdrop-blur-md p-6 rounded-xl">
               <p className="text-white/80 mb-4">
-              I designed a clean, responsive front-end admin dashboard using only pure HTML and CSS.
+              A responsive front-end admin dashboard using only pure HTML and CSS.
               The dashboard includes detailed order tracking, stock management, and client entry forms
               with a user-friendly interface to enhance efficiency in managing stock entries, exits, and deliveries.
               </p>
