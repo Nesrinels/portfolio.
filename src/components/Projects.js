@@ -57,9 +57,9 @@ export default function Projects() {
             
             <div className="bg-black/30 backdrop-blur-md p-6 rounded-xl">
               <p className="text-white/80 mb-4">
-              I designed a clean, responsive front-end admin dashboard using only pure HTML and CSS.
-              The dashboard includes detailed order tracking, stock management, and client entry forms
-              with a user-friendly interface to enhance efficiency in managing stock entries, exits, and deliveries.
+              A clean, responsive front-end admin dashboard was built using pure HTML and CSS. 
+              The dashboard includes features such as detailed order tracking, stock management, and client entry forms.
+               It provides a user-friendly interface to enhance efficiency in managing stock entries, exits, and deliveries.
               </p>
               <div className="flex gap-2">
                 <span className="px-4 py-1 bg-purple-700/50 rounded-full text-white text-sm">HTML</span>
@@ -94,9 +94,10 @@ export default function Projects() {
             
             <div className="bg-black/30 backdrop-blur-md p-6 rounded-xl">
               <p className="text-white/80 mb-4">
-                AzroExpress is a logistics management platform that helps users track 
-                shipments and explore service options. Built with pure HTML and CSS, it 
-                delivers a clean, user-friendly interface for managing orders and delivery services.
+              Crust and Cravings is a modern dining platform offering a variety of delicious pizza and fast food options. 
+              Built with HTML, CSS, and Bootstrap, the website ensures a visually appealing and user-friendly experience 
+              for customers looking to explore the menu or make a reservation. The platform emphasizes responsive design, 
+              making it accessible across all devices while providing a seamless ordering process for food lovers.
               </p>
               <div className="flex gap-2">
                 <span className="px-4 py-1 bg-purple-700/50 rounded-full text-white text-sm">HTML</span>
