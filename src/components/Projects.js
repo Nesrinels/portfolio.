@@ -94,9 +94,10 @@ export default function Projects() {
             
             <div className="bg-black/30 backdrop-blur-md p-6 rounded-xl">
               <p className="text-white/80 mb-4">
-                AzroExpress is a logistics management platform that helps users track 
-                shipments and explore service options. Built with pure HTML and CSS, it 
-                delivers a clean, user-friendly interface for managing orders and delivery services.
+              Crust and Cravings is a modern dining platform offering a variety of delicious pizza and fast food options. 
+              Built with HTML, CSS, and Bootstrap, the website ensures a visually appealing and user-friendly experience 
+              for customers looking to explore the menu or make a reservation. The platform emphasizes responsive design, 
+              making it accessible across all devices while providing a seamless ordering process for food lovers.
               </p>
               <div className="flex gap-2">
                 <span className="px-4 py-1 bg-purple-700/50 rounded-full text-white text-sm">HTML</span>
