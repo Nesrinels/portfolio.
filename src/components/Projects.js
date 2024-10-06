@@ -57,9 +57,9 @@ export default function Projects() {
             
             <div className="bg-black/30 backdrop-blur-md p-6 rounded-xl">
               <p className="text-white/80 mb-4">
-              A clean, responsive front-end admin dashboard was built using pure HTML and CSS. 
-              The dashboard includes features such as detailed order tracking, stock management, and client entry forms.
-               It provides a user-friendly interface to enhance efficiency in managing stock entries, exits, and deliveries.
+              A responsive front-end admin dashboard using only pure HTML and CSS.
+              The dashboard includes detailed order tracking, stock management, and client entry forms
+              with a user-friendly interface to enhance efficiency in managing stock entries, exits, and deliveries.
               </p>
               <div className="flex gap-2">
                 <span className="px-4 py-1 bg-purple-700/50 rounded-full text-white text-sm">HTML</span>
